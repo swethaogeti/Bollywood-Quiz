@@ -1,4 +1,4 @@
 # Bollywood-Quiz
-A CLI Quiz app made by using javascript ,CHALK,Repl.it,nodejs
+A CLI Quiz app based on BOllywood movies.
 
 This CLI app is the assignment in neogcamp for (markTWO)
